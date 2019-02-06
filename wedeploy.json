@@ -3,8 +3,5 @@
   "image": "cartoview/cartoview",
   "volumes": {
     "cartoview": "/var/lib/cartoview"
-  },
-  "env": {
-    "MYSQL_ROOT_PASSWORD": "pass"
   }
 }
