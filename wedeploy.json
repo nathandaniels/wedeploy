@@ -1,8 +1,8 @@
 {
-  "id": "mydb",
-  "image": "mysql",
+  "id": "cartoview",
+  "image": "cartoview",
   "volumes": {
-    "mysql": "/var/lib/mysql"
+    "cartoview": "/var/lib/cartoview"
   },
   "env": {
     "MYSQL_ROOT_PASSWORD": "pass"
