@@ -1,6 +1,6 @@
 {
   "id": "cartoview",
-  "image": "kobotoolbox/kobocat",
+  "image": "kobotoolbox/kobo-docker",
   "volumes": {
     "data": "/usr/share/kobotoolbox/data"
   }
