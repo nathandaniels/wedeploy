@@ -1,7 +1,10 @@
 {
   "id": "cartoview",
-  "image": "cartoview/cartoview"
-    "volumes": {
-    "cartoview": "/var/lib/cartoview"
-  }
+  "image": "cartoview/cartoview",
+  "volumes": {
+    "data": "/usr/share/cartoview/data"
+  },
+  "memory": 1024,
+  "cpu": 2,
+  "port": 5432
 }
