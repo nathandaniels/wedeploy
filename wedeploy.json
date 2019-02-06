@@ -1,7 +1,4 @@
 {
   "id": "cartoview",
-  "image": "cartoview/cartoview",
-  "volumes": {
-    "cartoview": "/var/lib/cartoview"
-  }
+  "image": "cartoview/cartoview"
 }
